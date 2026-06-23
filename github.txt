@@ -6,7 +6,7 @@ git status
 
 
 
-git remote at origin https://github.com/Abhishek-Upadhyay65/day11b.git
+git remote add origin https://github.com/Abhishek-Upadhyay65/day11b.git
 
 git config --list 
 git add .
