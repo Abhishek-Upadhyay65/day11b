@@ -1,0 +1,18 @@
+git init
+git status
+ git config user.name "Abhishek"
+ git config user.email "au2297579@gmail.com"
+
+
+
+
+git remote at origin https://github.com/Abhishek-Upadhyay65/day11b.git
+
+git config --list 
+git add .
+git status
+
+git commit -m "first file of the day"
+
+git branch -m main
+git push -u origin main
