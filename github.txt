@@ -22,3 +22,10 @@ git log
 git log --oneline
 
 git show commit_id
+
+git revert commit_id
+git rm filename
+git revert --continue
+
+do click on commit
+git push
